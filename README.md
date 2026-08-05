@@ -1,2 +1,2 @@
-# Weather-Appliation
+# Weather-Application
 Your daily forecast .
